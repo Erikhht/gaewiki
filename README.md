@@ -5,6 +5,7 @@ GAE Wiki
 
 This is a simple wiki engine for Google App Engine.
 
+####[Download latest release](https://github.com/Erikhht/gaewiki/releases/latest)
 
 Contributors
 ============
